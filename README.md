@@ -1,4 +1,4 @@
-<h4 align="left">Computer Engineering student from Barcelona, Spain. Enthusiastic about technology and programming.</h4>
+<h3 align="left">Computer Engineering student from Barcelona, Spain 📍. Enthusiastic about technology and programming.</h3>
 
 ###
 
@@ -33,8 +33,3 @@
 </div>
 
 ###
-
-<!---
-lgukasyan/lgukasyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
