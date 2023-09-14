@@ -22,3 +22,8 @@
 </div>
 
 ###
+
+###
+
+<h3 align="left">📊 CodeWars Rank</h3>
+<img src="https://www.codewars.com/users/lgukasyan/badges/large" alt="My CodeWars Stats">
