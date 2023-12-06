@@ -1,4 +1,4 @@
-<h3 align="left">Computer Engineering student from Barcelona, Spain 📍. Enthusiastic about technology and programming.</h3>
+<p align="left">Computer Engineering student from Barcelona, Spain 📍. Enthusiastic about technology and programming.</p>
 
 ###
 
